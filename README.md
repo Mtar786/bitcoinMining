@@ -1,6 +1,5 @@
 GenesisMiner - Bitcoin Mining Simulator
 
-
 A React-based educational game that simulates a Bitcoin mining operation.
 
 🚀 Quick Start
